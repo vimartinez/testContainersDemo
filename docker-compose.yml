@@ -1,0 +1,18 @@
+version: '3.1'
+
+services:
+  redis:
+   image: redis
+
+#  db:
+#    image: postgres:14
+#    ports:
+#      - "5432:5432"
+#    networks:
+#      - default
+#    environment:
+#     - POSTGRES_DB=testContainers_dev
+#     - POSTGRES_PASSWORD=victor
+#     - POSTGRES_USER=victor
+
+# image

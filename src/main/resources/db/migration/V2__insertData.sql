@@ -1,0 +1,2 @@
+INSERT INTO PERSONAS2 SELECT 1, 'VICTOR M', 'victorm@mail.com';
+INSERT INTO PERSONAS2 SELECT 2, 'CHECO PEREZ', 'checo@mail.com';
